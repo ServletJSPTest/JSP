@@ -14,7 +14,7 @@ adsf dsf asdf sdf ds
 <button onclick="location.href='${pageContext.servletContext.contextPath}/employee/list'">전체 직원정보 조회하기</button>
 
 <hr>
-<h1>메인 내용 수정했습니다.</h1>
+<h1>메인 내용 수정----dfdsfsdfdf</h1>
 <h3>2. tbl_employee 테이블에서 emp_id를 이용하여 사원 정보 조회해오기</h3>
 <form action="employee/select">
     <label>조회할 사번 : </label>
